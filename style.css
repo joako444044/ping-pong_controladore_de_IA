@@ -1,0 +1,23 @@
+ol.s
+{
+    list-style-type: inherit;
+}
+.foot
+{
+    width: 100%;
+    position:fixed;
+    background-color: rgb(0, 110, 255);
+    color: black;
+    font-family: cursive;
+    bottom: 0%;
+    margin-bottom: 0%;
+    border-color: chocolate;
+    border-width: 4px;
+}
+canvas{
+    background-color: aqua;
+    border-color: aquamarine;
+    border-radius: 2px;
+    box-shadow: 4px 4px 6px cadetblue;
+    margin-bottom: 10%;
+}

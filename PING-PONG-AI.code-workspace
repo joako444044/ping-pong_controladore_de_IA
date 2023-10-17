@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../c-134 proyecto"
+		},
+		{
+			"path": "../../magic"
+		},
+		{
+			"path": "../../c-135 deteccion de objetos en tiemepo real"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PING-PONG-AI"
+	}
+}
